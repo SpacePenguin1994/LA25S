@@ -1,10 +1,17 @@
 ---
-title: 课程作业
+title: 课程课件和讲义
 ---
+Lec 0
+: **课程概览(Overview)**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec0-handout.pdf)\]
 
-<!-->
-HW 1
-:  **HW**{: .label .label-red }Released: [Homework #1-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/homework/DM-hw1-noblank.pdf) &nbsp; [Homework #1-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/homework/DM-hw1-blank.pdf)
-:  **DUE**{: .label .label-yellow} Sep 18
+Lec 1
+: **向量介绍(Introduction to Vectors)**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec1-handout.pdf)\]
+     \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-1.pdf)\]
 
-<-->
+
+
+
+
+

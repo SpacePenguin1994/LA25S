@@ -1,12 +1,15 @@
 ---
-title: 课程课件
+title: 课程的一些提前的材料
 ---
-<!-->
-Lec 0
-: **概览(Overview)**
-  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/slides/DMLec0-handout.pdf)\]
+1
+: **一些符号说明**
+  :  \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-Notations.pdf)\]
 
-<-->
+2
+: **关于行列式的一个介绍**
+  :  \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-Determinants.pdf)\]
+
+
 
 
 
