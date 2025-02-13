@@ -10,7 +10,15 @@ Lec 1
   :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec1-handout.pdf)\]
      \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-1.pdf)\]
 
+Lec 2
+: **解线性方程组(I)(Solving Linear Equations (I))**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec2-handout.pdf)\]
+     \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-3.pdf)\]
 
+Lec 3
+: **矩阵(Matrics)**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec3-handout.pdf)\]
+     \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-3.pdf)\]
 
 
 
