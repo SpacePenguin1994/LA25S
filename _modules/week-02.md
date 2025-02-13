@@ -20,6 +20,10 @@ Lec 3
   :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec3-handout.pdf)\]
      \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-3.pdf)\]
 
+Lec 4
+: **线性空间(向量空间，Vector Space)**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec4-handout.pdf)\]
+     \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-4.pdf)\]
 
 
 
