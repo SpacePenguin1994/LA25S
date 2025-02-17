@@ -36,7 +36,7 @@ seo:
 **主讲人:** [杨启哲](https://basics.sjtu.edu.cn/~yangqizhe/), qzyang(at)shnu.edu.cn
 
 **课程时间地点:** &ensp;&nbsp;8:00 a.m.- 9:30 a.m. &emsp; 每周五(1-16周), 奉贤3教楼101
- <br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&ensp;&nbsp;9:45 a.m.- 11:15 a.m. &emsp;双周二(1-16周), 奉贤2教楼419
+ <br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&ensp;&nbsp;13:00 p.m.- 14:30 p.m. &emsp;双周二(1-16周), 奉贤2教楼419
 
 
  更多信息可以关注 [课程安排](schedule.md).
