@@ -31,3 +31,8 @@ Lec 5
      \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-5.pdf)\]
 
 
+Lec 6
+: **矩阵的列秩和行秩(Column Rank and Row Rank of Matrices)**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec6-handout.pdf)\]
+     \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-6.pdf)\]
+
