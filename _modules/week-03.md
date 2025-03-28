@@ -22,3 +22,7 @@ HW 4
 HW 5
 :  **HW**{: .label .label-red }Released: [Homework #5-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/homework/LA-hw5-noblank.pdf) &nbsp; [Homework #5-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/homework/LA-hw5-blank.pdf)
 :  **DUE**{: .label .label-yellow} Mar 27 24:00
+
+HW 6
+:  **HW**{: .label .label-red }Released: [Homework #6-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/homework/LA-hw6-noblank.pdf) &nbsp; [Homework #6-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/homework/LA-hw6-blank.pdf)
+:  **DUE**{: .label .label-yellow} Apr 7 24:00
