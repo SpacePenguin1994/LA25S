@@ -40,3 +40,13 @@ Lec 7
 : **解线性方程组(II)(Solving Linear Equations (II))**
   :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec7-handout.pdf)\]
      \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-7.pdf)\]
+
+Lec 8
+: **正交和投影（Orthogonality and Projection）**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec8-handout.pdf)\]
+     \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-8.pdf)\]
+
+Lec 9
+: **最小二乘法和标准正交基（Least Square Approximations and Orthonormal Bases）**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec9-handout.pdf)\]
+     \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-9.pdf)\]
