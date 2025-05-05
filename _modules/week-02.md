@@ -50,3 +50,15 @@ Lec 9
 : **最小二乘法和标准正交基（Least Square Approximations and Orthonormal Bases）**
   :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec9-handout.pdf)\]
      \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-9.pdf)\]
+
+Lec 10
+: **行列式(I)（Determinants(I)）**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec10-handout.pdf)\]
+     \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-Determinants.pdf)\]
+
+Lec 11
+: **行列式(II)（Determinants(II)）**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec11-handout.pdf)\]
+     \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-Determinants.pdf)\]
+
+- 行列式两节内容共一个讲义。
