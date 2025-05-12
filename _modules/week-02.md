@@ -62,3 +62,13 @@ Lec 11
      \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-Determinants.pdf)\]
 
 - 行列式两节内容共一个讲义。
+
+Lec 12
+: **特征值和与特征向量（Eigenvalues and Eigenvectors）**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec12-handout.pdf)\]
+     \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-12.pdf)\]
+
+Lec 13
+: **对称矩阵和正定矩阵（Symmetric Matrices and Positive Definite Matrices）**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec13-handout.pdf)\]
+     \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-13.pdf)\]
