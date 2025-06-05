@@ -34,3 +34,6 @@ HW 10
 
 HW 11
 : **HW**{: .label .label-red }Released:[Homework #11-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/homework/LA-hw11-answer.pdf)  
+
+HW 12
+: **HW**{: .label .label-red }Released:[Homework #12-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/homework/LA-hw12-answer.pdf)  

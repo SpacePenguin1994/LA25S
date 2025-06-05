@@ -72,3 +72,8 @@ Lec 13
 : **对称矩阵和正定矩阵（Symmetric Matrices and Positive Definite Matrices）**
   :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec13-handout.pdf)\]
      \[[讲义](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/Lecture-13.pdf)\]
+
+
+Lec 14
+: **复习（Review）**
+  :  \[[课件](https://basics.sjtu.edu.cn/~yangqizhe/pdf/la2025s/slides/LALec16-handout.pdf)\]
